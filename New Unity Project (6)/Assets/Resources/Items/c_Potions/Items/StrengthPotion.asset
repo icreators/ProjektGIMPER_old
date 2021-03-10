@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fda6e26e309440e4a8216ad7dcc5727a, type: 3}
+  m_Name: StrengthPotion
+  m_EditorClassIdentifier: 
+  name: "Eliksir si\u0142y"
+  description: "Zwi\u0119ksza si\u0142\u0119 o 20 punkt\xF3w"
+  weight: 1
+  prefab: {fileID: 9067669671782768829, guid: 7dc26f7615d993d4e9e7a5035e737417, type: 3}
+  type: 2
+  icon: {fileID: 21300000, guid: 24fdcfc70cd7c0a42803f39c924ce651, type: 3}
+  isDefaultImte: 0
+  value: 12
+  potionType: 0
+  potionStrength: 20
+  effectTime: 120

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fda6e26e309440e4a8216ad7dcc5727a, type: 3}
+  m_Name: Alcohol1
+  m_EditorClassIdentifier: 
+  name: "Bia\u0142a Mewa"
+  description: "eliksir szcz\u0119\u015Bcia"
+  weight: 1
+  prefab: {fileID: 5486111086905852149, guid: aca0b3ba0cb459742b495735a1bdddb1, type: 3}
+  type: 2
+  icon: {fileID: 21300000, guid: f2696c1cd1641404db0381b1a768a6c6, type: 3}
+  isDefaultImte: 0
+  value: 10
+  potionType: 0
+  potionStrength: 20
+  effectTime: 120
